@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Build artifacts
+dist/
+server/dist/
+client/dist/
+
+# Typescript build info
+*.tsbuildinfo
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
